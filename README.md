@@ -20,14 +20,6 @@ Estudando o ecossistema JavaScript e Python para construir soluções eficientes
 
 ---
 
-### 📊 Activity
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EBrya&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="right">
   <code>build.learn.repeat()</code>
 </p>
