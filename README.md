@@ -20,12 +20,10 @@ Estudando o ecossistema JavaScript e Python para construir soluções eficientes
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EBrya&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EBrya&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EBrya&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
