@@ -8,10 +8,6 @@ Estudando o ecossistema JavaScript e Python para construir soluções eficientes
 
 ### 💻 Tech Stack
 
-`JavaScript` `Node.js` `Python` `Git` `SQL` `NoSQL`
-
-<br/>
-
 <img src="https://skillicons.dev/icons?i=js,python,nodejs,git,github,vscode,mongodb,mysql&theme=dark" />
 
 ---
@@ -24,11 +20,12 @@ Estudando o ecossistema JavaScript e Python para construir soluções eficientes
 
 ---
 
-### 📈 Stats
+### 📈 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EBrya&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=9f9f9f&icon_color=fff&bg_color=0,000,000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EBrya&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=9f9f9f&bg_color=0,000,000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EBrya&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EBrya&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
