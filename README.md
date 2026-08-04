@@ -1,6 +1,6 @@
 # EBrya
 
-**Developer | Portugal 🇵🇹**
+**Developer | Brasil 🇧🇷**
 
 Estudando o ecossistema JavaScript e Python para construir soluções eficientes. Focado em backend, automação e APIs.
 
