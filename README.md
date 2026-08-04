@@ -1,36 +1,44 @@
-# EBrya
+<h1 align="center">EBrya</h1>
+<p align="center">
+  Developer in progress • Portugal 🇵🇹
+</p>
+<p align="center">
+  <a href="https://github.com/EBrya">
+    <img src="https://img.shields.io/badge/GitHub-111?style=flat-square&logo=github">
+  </a>
+</p>
+---
+### 👨‍💻 About
 ```js
 const erick = {
   name: "Erick Bryan",
   location: "Portugal 🇵🇹",
-  role: "Developer in progress",
   learning: ["JavaScript", "Python", "Node.js"],
-  interests: ["Bots", "APIs", "Web Development"]
+  building: ["Bots", "APIs", "Web Projects"]
 };
 
-⚡ Tech Stack
+🛠️ Stack
 
-🚀 Building
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,nodejs,git,github,vscode" />
+</p>
+
+🚀 Projects
 
 * 🤖 Discord Bots
 * 🔌 APIs & Integrations
 * 🌐 Web Projects
-* 🧪 Experiments
+* 🧪 Personal Experiments
 
-📈 Learning
+📚 Currently learning
 
-Programming       ███████░░░  70%
-JavaScript        ██████░░░░  60%
-Python            █████░░░░░  50%
-Node.js           █████░░░░░  50%
+JavaScript Python Node.js APIs Git
 
-🎯 Goal
+🎯
 
-Build → Learn → Improve → Repeat.
-
-⸻
+Build. Learn. Improve.
 
 <p align="center">
-  <sub>Made by EBrya</sub>
+  <sub>EBrya</sub>
 </p>
 ```
