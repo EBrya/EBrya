@@ -1,44 +1,61 @@
-<h1 align="center">EBrya</h1>
+# <p align="center">Olá, eu sou o Erick Bryan 👋</p>
+
 <p align="center">
-  Developer in progress • Portugal 🇵🇹
+  <em>Desenvolvedor em progresso, apaixonado por tecnologia e aprendizado contínuo.</em>
 </p>
+
 <p align="center">
   <a href="https://github.com/EBrya">
-    <img src="https://img.shields.io/badge/GitHub-111?style=flat-square&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
+
 ---
-### 👨‍💻 About
-```js
-const erick = {
-  name: "Erick Bryan",
-  location: "Portugal 🇵🇹",
-  learning: ["JavaScript", "Python", "Node.js"],
-  building: ["Bots", "APIs", "Web Projects"]
-};
 
-🛠️ Stack
+### 👨‍💻 Sobre Mim
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,nodejs,git,github,vscode" />
-</p>
+Sou o Erick Bryan, um desenvolvedor de Portugal 🇵🇹. Atualmente, estou focado em aprimorar minhas habilidades em **JavaScript**, **Python** e **Node.js**. Tenho experiência na construção de **Bots**, **APIs** e **Projetos Web**, sempre buscando novas formas de aplicar a tecnologia para resolver problemas.
 
-🚀 Projects
+---
 
-* 🤖 Discord Bots
-* 🔌 APIs & Integrations
-* 🌐 Web Projects
-* 🧪 Personal Experiments
-
-📚 Currently learning
-
-JavaScript Python Node.js APIs Git
-
-🎯
-
-Build. Learn. Improve.
+### 🛠️ Minhas Habilidades
 
 <p align="center">
-  <sub>EBrya</sub>
+  <img src="https://skillicons.dev/icons?i=js,python,nodejs,git,github,vscode,html,css,react,mongodb,mysql" />
 </p>
-```
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EBrya&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Erick Bryan GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EBrya&layout=compact&theme=dark" alt="Erick Bryan Top Languages" />
+</p>
+
+---
+
+### 🚀 Projetos
+
+*   🤖 **Discord Bots**: Automação e interação para comunidades.
+*   🔌 **APIs & Integrações**: Construção de serviços robustos e conectados.
+*   🌐 **Projetos Web**: Desenvolvimento de aplicações web dinâmicas e responsivas.
+*   🧪 **Experimentos Pessoais**: Exploração de novas tecnologias e conceitos.
+
+---
+
+### 📚 Atualmente Aprendendo
+
+*   **JavaScript**: Aprofundando em frameworks e bibliotecas modernas.
+*   **Python**: Foco em automação e desenvolvimento backend.
+*   **Node.js**: Construindo APIs escaláveis e eficientes.
+*   **APIs**: Consumo e criação de interfaces de programação de aplicações.
+*   **Git**: Melhores práticas de controle de versão e colaboração.
+
+---
+
+<h3 align="center">🎯 Build. Learn. Improve.</h3>
+
+<p align="center">
+  <sub>Feito com ❤️ por EBrya</sub>
+</p>
