@@ -1,16 +1,36 @@
-## Hi there 👋
+# EBrya
+```js
+const erick = {
+  name: "Erick Bryan",
+  location: "Portugal 🇵🇹",
+  role: "Developer in progress",
+  learning: ["JavaScript", "Python", "Node.js"],
+  interests: ["Bots", "APIs", "Web Development"]
+};
 
-<!--
-**EBrya/EBrya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Tech Stack
 
-Here are some ideas to get you started:
+🚀 Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🤖 Discord Bots
+* 🔌 APIs & Integrations
+* 🌐 Web Projects
+* 🧪 Experiments
+
+📈 Learning
+
+Programming       ███████░░░  70%
+JavaScript        ██████░░░░  60%
+Python            █████░░░░░  50%
+Node.js           █████░░░░░  50%
+
+🎯 Goal
+
+Build → Learn → Improve → Repeat.
+
+⸻
+
+<p align="center">
+  <sub>Made by EBrya</sub>
+</p>
+```
